@@ -2,37 +2,19 @@
 
 Dieses Programm ist ein Preisvergleichstool, mit dem Benutzer in mehreren Geschäften in Panama nach Computerprodukten suchen und den günstigsten Preis finden können.
 
+# Übersetzung
+
+| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                     | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
+| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ------------------------ | ----------------------- | ------------------------- | ------------------------ |
+| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Arabisch](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
+
 ## Bildschirmfoto
 
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
-<div align="left">
-    <p align="center">
-      <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
-      |
-      <a href="README.zh-CN.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 简体中文</a>
-      |
-      <a href="README.zh-TW.md"><img src="https://flagsapi.com/TW/flat/32.png" height="11"> 繁体中文</a>
-      |
-      <a href="README.hi.md"><img src="https://flagsapi.com/IN/flat/32.png" height="11"> हिंदी</a>
-      |
-      <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
-      |
-      <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
-      |
-      <a href="README.de.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
-      |
-      <a href="README.ja.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
-      |
-      <a href="README.es.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
-    </p>
-</div>
-
-# 
-
 ## Autor
 
-Dieses Programm wurde erstellt von[qzxtu](https://github.com/qzxtu).
+This program was created by [qzxtu](https://github.com/qzxtu).
 
 ## Haftungsausschluss
 
@@ -58,7 +40,7 @@ A: Das Programm durchsucht derzeit drei Websites:`loltec.com`,`solostock.xyz`, U
 
 **F: Kann ich dem Programm weitere Websites hinzufügen?**
 
-A: Ja, Sie können dem Programm weitere Websites hinzufügen, indem Sie die ändern`websites`Liste in der`Main`Methode. Sie müssen die URL der Website und die CSS-Selektoren für den Produktnamen, den Preis und das Bild angeben.
+A: Ja, Sie können dem Programm weitere Websites hinzufügen, indem Sie die ändern`websites`Liste in der`Main` method. You will need to provide the URL of the website and the CSS selectors for the product name, price, and image.
 
 **F: Wie oft werden die Daten aktualisiert?**
 
