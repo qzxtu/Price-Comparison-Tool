@@ -19,6 +19,12 @@
       <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+      |
+      <a href="README.de.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
+      |
+      <a href="README.ja.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
+      |
+      <a href="README.es.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
     </p>
 </div>
 
@@ -58,6 +64,6 @@ A：程序目前搜索三个网站：`loltec.com`,`solostock.xyz`， 和`ptytec.
 
 A：每次运行程序时，数据都会更新。该程序向网站发送请求并抓取最新的产品信息。
 
-**Q: Can I use this program for other types of products?**
+**问：我可以将此程序用于其他类型的产品吗？**
 
-答：是的，您可以通过修改产品名称、价格和图像的搜索查询和 CSS 选择器，将此程序用于其他类型的产品。但是，请记住，该程序的当前版本针对在巴拿马的多家商店中搜索计算机产品进行了优化。
+答：是的，您可以通过修改产品名称、价格和图像的搜索查询和 CSS 选择器，将此程序用于其他类型的产品。但是，请记住，该程序的当前版本已针对在巴拿马的多家商店中搜索计算机产品进行了优化。
