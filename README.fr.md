@@ -4,16 +4,9 @@ Ce programme est un outil de comparaison de prix qui permet aux utilisateurs de 
 
 # Traduction
 
-| 🇺🇸 | [Anglais](README.md)                    |
-| ---- | --------------------------------------- |
-| 🇨🇳 | [Chinois simplifié](README.zh-CN.md)    |
-| 🇹🇼 | [chinois traditionnel](README.zh-TW.md) |
-| 🇮🇳 | [hindi](README.hi.md)                   |
-| 🇫🇷 | [Française](README.fr.md)               |
-| 🇦🇪 | [arabe](README.ar.md)                   |
-| 🇩🇪 | [Allemand](README.de.md)                |
-| 🇯🇵 | [Japonais](README.ja.md)                |
-| 🇪🇸 | [Espagnol](README.es.md)                |
+| 🇺🇸                 | 🇨🇳                                 | 🇹🇼                                    | 🇮🇳                  | 🇫🇷                      | 🇦🇪                  | 🇩🇪                     | 🇯🇵                     | 🇪🇸                    |
+| -------------------- | ------------------------------------ | --------------------------------------- | --------------------- | ------------------------- | --------------------- | ------------------------ | ------------------------ | ----------------------- |
+| [Anglais](README.md) | [Chinois simplifié](README.zh-CN.md) | [chinois traditionnel](README.zh-TW.md) | [hindi](README.hi.md) | [Française](README.fr.md) | [arabe](README.ar.md) | [Allemand](README.de.md) | [Japonais](README.ja.md) | [Español](README.es.md) |
 
 ## Capture d'écran
 
