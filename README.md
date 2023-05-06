@@ -2,33 +2,13 @@
 
 This program is a price comparison tool that allows users to search for computer products across multiple stores in Panamá and find the cheapest price.
 
+# Translation
+| 🇺🇸 | 🇨🇳 | 🇹🇼 | 🇮🇳 | 🇫🇷 | 🇦🇪 | 🇩🇪 | 🇯🇵 | 🇪🇸 |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| [English](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [हिंदी](README.hi.md) | [Française](README.fr.md) | [عربى](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) |
+
 ## Screenshot
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
-
-
-<div align="left">
-    <p align="center">
-      <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
-      |
-      <a href="README.zh-CN.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 简体中文</a>
-      |
-      <a href="README.zh-TW.md"><img src="https://flagsapi.com/TW/flat/32.png" height="11"> 繁体中文</a>
-      |
-      <a href="README.hi.md"><img src="https://flagsapi.com/IN/flat/32.png" height="11"> हिंदी</a>
-      |
-      <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
-      |
-      <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
-      |
-      <a href="README.de.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
-      |
-      <a href="README.ja.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
-      |
-      <a href="README.es.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
-    </p>
-</div>
-
-#
 
 ## Author
 
