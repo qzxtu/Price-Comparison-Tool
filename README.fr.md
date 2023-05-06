@@ -2,11 +2,11 @@
 
 Ce programme est un outil de comparaison de prix qui permet aux utilisateurs de rechercher des produits informatiques dans plusieurs magasins au Panama et de trouver le prix le moins cher.
 
-## Traduction
+## Capture d'écran
+
+![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
 <div align="left">
-  <details open>
-    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -20,14 +20,11 @@ Ce programme est un outil de comparaison de prix qui permet aux utilisateurs de 
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
     </p>
-  </details>
 </div>
 
-## Capture d'écran
+# 
 
-![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
-
-## Auteur
+## Author
 
 Ce programme a été créé par[qzxtu](https://github.com/qzxtu).
 
@@ -59,7 +56,7 @@ R : Oui, vous pouvez ajouter d'autres sites Web au programme en modifiant le`web
 
 **Q : À quelle fréquence les données sont-elles mises à jour ?**
 
-A: The data is updated every time you run the program. The program sends requests to the websites and scrapes the latest product information.
+R : Les données sont mises à jour à chaque fois que vous exécutez le programme. Le programme envoie des demandes aux sites Web et récupère les dernières informations sur les produits.
 
 **Q : Puis-je utiliser ce programme pour d'autres types de produits ?**
 
