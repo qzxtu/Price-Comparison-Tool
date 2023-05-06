@@ -4,12 +4,24 @@ Ce programme est un outil de comparaison de prix qui permet aux utilisateurs de 
 
 ## Traduction
 
--   [Anglais](README.md)
--   [Chinois simplifié](README.zh-CN.md)
--   [chinois traditionnel](README.zh-TW.md)
--   [hindi](README.hi.md)
--   [Française](README.fr.md)
--   [arabe](README.ar.md)
+<div align="left">
+  <details open>
+    <summary>:globe_with_meridians: Languages Available</summary>
+    <p align="center">
+      <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
+      |
+      <a href="README.zh-CN.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 简体中文</a>
+      |
+      <a href="README.zh-TW.md"><img src="https://flagsapi.com/TW/flat/32.png" height="11"> 繁体中文</a>
+      |
+      <a href="README.hi.md"><img src="https://flagsapi.com/IN/flat/32.png" height="11"> हिंदी</a>
+      |
+      <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
+      |
+      <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+    </p>
+  </details>
+</div>
 
 ## Capture d'écran
 
@@ -47,7 +59,7 @@ R : Oui, vous pouvez ajouter d'autres sites Web au programme en modifiant le`web
 
 **Q : À quelle fréquence les données sont-elles mises à jour ?**
 
-A: The data is updated every time you run the program. The program sends requests to the websites and scrapes the latest product information.
+R : Les données sont mises à jour à chaque fois que vous exécutez le programme. Le programme envoie des demandes aux sites Web et récupère les dernières informations sur les produits.
 
 **Q : Puis-je utiliser ce programme pour d'autres types de produits ?**
 
