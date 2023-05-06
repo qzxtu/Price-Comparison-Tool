@@ -4,9 +4,16 @@ Dieses Programm ist ein Preisvergleichstool, mit dem Benutzer in mehreren Gesch�
 
 # Übersetzung
 
-| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                     | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
-| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ------------------------ | ----------------------- | ------------------------- | ------------------------ |
-| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Arabisch](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
+| 🇺🇸 | [Englisch](README.md)                        |
+| ---- | -------------------------------------------- |
+| 🇨🇳 | [Vereinfachtes Chinesisch](README.zh-CN.md)  |
+| 🇹🇼 | [traditionelles Chinesisch](README.zh-TW.md) |
+| 🇮🇳 | [Hindi](README.hi.md)                        |
+| 🇫🇷 | [Französisch](README.fr.md)                  |
+| 🇦🇪 | [Arabisch](README.ar.md)                     |
+| 🇩🇪 | [Deutsch](README.de.md)                      |
+| 🇯🇵 | [japanisch](README.ja.md)                    |
+| 🇪🇸 | [Spanisch](README.es.md)                     |
 
 ## Bildschirmfoto
 
@@ -14,13 +21,13 @@ Dieses Programm ist ein Preisvergleichstool, mit dem Benutzer in mehreren Gesch�
 
 ## Autor
 
-This program was created by [qzxtu](https://github.com/qzxtu).
+Dieses Programm wurde erstellt von[qzxtu](https://github.com/qzxtu).
 
 ## Haftungsausschluss
 
 Dieses Tool wurde nur für Bildungszwecke erstellt. Der Autor ist nicht verantwortlich für den Missbrauch dieses Programms.
 
-## Wie es funktioniert
+## How it works
 
 Der Benutzer gibt eine Suchanfrage ein und das Programm sendet Anfragen an mehrere Websites, um Produktinformationen zu kratzen. Das Programm vergleicht dann die Preise der Produkte und zeigt das günstigste Produkt mit seinen Details an.
 
@@ -40,7 +47,7 @@ A: Das Programm durchsucht derzeit drei Websites:`loltec.com`,`solostock.xyz`, U
 
 **F: Kann ich dem Programm weitere Websites hinzufügen?**
 
-A: Ja, Sie können dem Programm weitere Websites hinzufügen, indem Sie die ändern`websites`Liste in der`Main` method. You will need to provide the URL of the website and the CSS selectors for the product name, price, and image.
+A: Ja, Sie können dem Programm weitere Websites hinzufügen, indem Sie die ändern`websites`Liste in der`Main`Methode. Sie müssen die URL der Website und die CSS-Selektoren für den Produktnamen, den Preis und das Bild angeben.
 
 **F: Wie oft werden die Daten aktualisiert?**
 
