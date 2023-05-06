@@ -2,6 +2,14 @@
 
 This program is a price comparison tool that allows users to search for computer products across multiple stores in Panamá and find the cheapest price.
 
+## README Translation
+- [English](README.md)
+- [简体中文](README.zh-CN.md)
+- [繁体中文](README.zh-TW.md)
+- [हिंदी](README.hi.md)
+- [Française](README.fr.md)
+- [عربى](README.ar.md)
+
 ## Screenshot
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
