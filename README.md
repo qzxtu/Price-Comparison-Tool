@@ -2,6 +2,10 @@
 
 This program is a price comparison tool that allows users to search for computer products across multiple stores in Panama and find the cheapest price.
 
+## Screenshot
+![PTY](https://user-images.githubusercontent.com/69091361/236595035-d985f603-d82f-4496-8c80-e2d3111adc70.png)
+hots
+
 ## Author
 
 This program was created by [qzxtu](https://github.com/qzxtu).
