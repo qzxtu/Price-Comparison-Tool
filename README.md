@@ -2,10 +2,11 @@
 
 This program is a price comparison tool that allows users to search for computer products across multiple stores in Panamá and find the cheapest price.
 
-## Translation
+## Screenshot
+![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
+
+
 <div align="left">
-  <details open>
-    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -19,11 +20,9 @@ This program is a price comparison tool that allows users to search for computer
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
     </p>
-  </details>
 </div>
 
-## Screenshot
-![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
+#
 
 ## Author
 
