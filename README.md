@@ -1,6 +1,6 @@
 # Price Comparison Tool
 
-This program is a price comparison tool that allows users to search for computer products across multiple stores in Panama and find the cheapest price.
+This program is a price comparison tool that allows users to search for computer products across multiple stores in Panamá and find the cheapest price.
 
 ## Screenshot
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
@@ -29,7 +29,7 @@ The user enters a search query and the program sends requests to multiple websit
 
 **Q: What websites does the program search?**
 
-A: The program currently searches three websites: loltec.com, solostock.xyz, and ptytec.com. These websites are computer stores located in Panama.
+A: The program currently searches three websites: `loltec.com`, `solostock.xyz`, and `ptytec.com`. These websites are computer stores located in Panamá.
 
 **Q: Can I add more websites to the program?**
 
