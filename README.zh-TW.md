@@ -4,18 +4,30 @@
 
 ## 翻譯
 
--   [英語](README.md)
--   [簡體中文](README.zh-CN.md)
--   [繁體中文](README.zh-TW.md)
--   [印地語](README.hi.md)
--   [法語](README.fr.md)
--   [阿拉伯](README.ar.md)
+<div align="left">
+  <details open>
+    <summary>:globe_with_meridians: Languages Available</summary>
+    <p align="center">
+      <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
+      |
+      <a href="README.zh-CN.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 简体中文</a>
+      |
+      <a href="README.zh-TW.md"><img src="https://flagsapi.com/TW/flat/32.png" height="11"> 繁体中文</a>
+      |
+      <a href="README.hi.md"><img src="https://flagsapi.com/IN/flat/32.png" height="11"> हिंदी</a>
+      |
+      <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
+      |
+      <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+    </p>
+  </details>
+</div>
 
 ## 截屏
 
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
-## 作者
+## Author
 
 這個程序是由創建的[qzxtu](https://github.com/qzxtu).
 
@@ -30,7 +42,7 @@
 ## 特徵
 
 -   在巴拿馬的多家電腦商店搜索產品信息
--   找到給定產品的最低價格
+-   查找給定產品的最低價格
 -   顯示有​​關最便宜產品的詳細信息
 -   使用緩存來提高性能
 -   使用多線程來加速處理
@@ -43,7 +55,7 @@ A：程序目前搜索三個網站：`loltec.com`,`solostock.xyz`， 和`ptytec.
 
 **問：我可以向該計劃添加更多網站嗎？**
 
-答：是的，您可以通過修改`websites`列表中`Main`方法。您需要提供網站的 URL 以及產品名稱、價格和圖片的 CSS 選擇器。
+答：是的，您可以通過修改`websites`列在`Main`方法。您需要提供網站的 URL 以及產品名稱、價格和圖片的 CSS 選擇器。
 
 **問：數據多久更新一次？**
 
