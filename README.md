@@ -5,7 +5,7 @@ This program is a price comparison tool that allows users to search for computer
 ## Translation
 <div align="left">
   <details open>
-    <summary>:globe_with_meridians: Languages Available</summary>
+    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
