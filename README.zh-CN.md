@@ -2,11 +2,11 @@
 
 该程序是一个价格比较工具，允许用户在巴拿马的多家商店中搜索计算机产品并找到最便宜的价格。
 
-## 翻译
+## 截屏
+
+![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
 <div align="left">
-  <details open>
-    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -20,12 +20,9 @@
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
     </p>
-  </details>
 </div>
 
-## Screenshot
-
-![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
+# 
 
 ## 作者
 
@@ -41,17 +38,17 @@
 
 ## 特征
 
--   Searches multiple computer stores in Panama for product information
+-   在巴拿马的多家电脑商店搜索产品信息
 -   查找给定产品的最低价格
 -   显示有关最便宜产品的详细信息
--   使用缓存来提高性能
+-   Uses caching to improve performance
 -   使用多线程来加速处理
 
 ## FAQ
 
 **问：程序搜索哪些网站？**
 
-A: The program currently searches three websites: `loltec.com`,`solostock.xyz`， 和`ptytec.com`.这些网站是位于巴拿马的电脑商店。
+A：程序目前搜索三个网站：`loltec.com`,`solostock.xyz`， 和`ptytec.com`.这些网站是位于巴拿马的电脑商店。
 
 **问：我可以向该计划添加更多网站吗？**
 
@@ -63,4 +60,4 @@ A：每次运行程序时，数据都会更新。该程序向网站发送请求�
 
 **问：我可以将此程序用于其他类型的产品吗？**
 
-答：是的，您可以通过修改产品名称、价格和图像的搜索查询和 CSS 选择器，将此程序用于其他类型的产品。但是，请记住，该程序的当前版本针对在巴拿马的多家商店中搜索计算机产品进行了优化。
+答：是的，您可以通过修改产品名称、价格和图像的搜索查询和 CSS 选择器，将此程序用于其他类型的产品。但是，请记住，该程序的当前版本已针对在巴拿马的多家商店中搜索计算机产品进行了优化。
