@@ -6,6 +6,10 @@ This program is a price comparison tool that allows users to search for computer
 
 This program was created by [qzxtu](https://github.com/qzxtu).
 
+## Disclaimer
+
+This tool was created for educational purposes only. The author is not responsible for any misuse of this program.
+
 ## How it works
 
 The user enters a search query and the program sends requests to multiple websites to scrape product information. The program then compares the prices of the products and displays the cheapest product along with its details.
