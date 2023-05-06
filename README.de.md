@@ -4,16 +4,9 @@ Dieses Programm ist ein Preisvergleichstool, mit dem Benutzer in mehreren Gesch�
 
 # Übersetzung
 
-| 🇺🇸 | [Englisch](README.md)                        |
-| ---- | -------------------------------------------- |
-| 🇨🇳 | [Vereinfachtes Chinesisch](README.zh-CN.md)  |
-| 🇹🇼 | [traditionelles Chinesisch](README.zh-TW.md) |
-| 🇮🇳 | [Hindi](README.hi.md)                        |
-| 🇫🇷 | [Französisch](README.fr.md)                  |
-| 🇦🇪 | [Arabisch](README.ar.md)                     |
-| 🇩🇪 | [Deutsch](README.de.md)                      |
-| 🇯🇵 | [japanisch](README.ja.md)                    |
-| 🇪🇸 | [Spanisch](README.es.md)                     |
+| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                     | 🇩🇪                    | 🇯🇵                      | 🇪🇸                    |
+| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ------------------------ | ----------------------- | ------------------------- | ----------------------- |
+| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Arabisch](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Español](README.es.md) |
 
 ## Bildschirmfoto
 
@@ -27,7 +20,7 @@ Dieses Programm wurde erstellt von[qzxtu](https://github.com/qzxtu).
 
 Dieses Tool wurde nur für Bildungszwecke erstellt. Der Autor ist nicht verantwortlich für den Missbrauch dieses Programms.
 
-## How it works
+## Wie es funktioniert
 
 Der Benutzer gibt eine Suchanfrage ein und das Programm sendet Anfragen an mehrere Websites, um Produktinformationen zu kratzen. Das Programm vergleicht dann die Preise der Produkte und zeigt das günstigste Produkt mit seinen Details an.
 
