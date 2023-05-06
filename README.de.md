@@ -2,11 +2,9 @@
 
 Dieses Programm ist ein Preisvergleichstool, mit dem Benutzer in mehreren Geschäften in Panama nach Computerprodukten suchen und den günstigsten Preis finden können.
 
-# Übersetzung
-
-| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                     | 🇩🇪                    | 🇯🇵                      | 🇪🇸                    |
-| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ------------------------ | ----------------------- | ------------------------- | ----------------------- |
-| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Arabisch](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Español](README.es.md) |
+| 🇺🇸                  | 🇨🇳                                        | 🇹🇼                                         | 🇮🇳                  | 🇫🇷                        | 🇦🇪                     | 🇩🇪                    | 🇯🇵                      | 🇪🇸                     |
+| --------------------- | ------------------------------------------- | -------------------------------------------- | --------------------- | --------------------------- | ------------------------ | ----------------------- | ------------------------- | ------------------------ |
+| [Englisch](README.md) | [Vereinfachtes Chinesisch](README.zh-CN.md) | [traditionelles Chinesisch](README.zh-TW.md) | [Hindi](README.hi.md) | [Französisch](README.fr.md) | [Arabisch](README.ar.md) | [Deutsch](README.de.md) | [japanisch](README.ja.md) | [Spanisch](README.es.md) |
 
 ## Bildschirmfoto
 
