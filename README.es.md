@@ -2,18 +2,11 @@
 
 Este programa es una herramienta de comparación de precios que permite a los usuarios buscar productos informáticos en múltiples tiendas en Panamá y encontrar el precio más barato.
 
-# Traducción
+# Translation
 
-| 🇺🇸 | [Inglés](README.md)                   |
-| ---- | ------------------------------------- |
-| 🇨🇳 | [chino simplificado](README.zh-CN.md) |
-| 🇹🇼 | [chino tradicional](README.zh-TW.md)  |
-| 🇮🇳 | [hindi](README.hi.md)                 |
-| 🇫🇷 | [Francésa](README.fr.md)              |
-| 🇦🇪 | [árabe](README.ar.md)                 |
-| 🇩🇪 | [Alemán](README.de.md)                |
-| 🇯🇵 | [japonés](README.ja.md)               |
-| 🇪🇸 | [Español](README.es.md)               |
+| 🇺🇸                | 🇨🇳                                  | 🇹🇼                                 | 🇮🇳                  | 🇫🇷                     | 🇦🇪                  | 🇩🇪                   | 🇯🇵                    | 🇪🇸                    |
+| ------------------- | ------------------------------------- | ------------------------------------ | --------------------- | ------------------------ | --------------------- | ---------------------- | ----------------------- | ----------------------- |
+| [Inglés](README.md) | [chino simplificado](README.zh-CN.md) | [chino tradicional](README.zh-TW.md) | [hindi](README.hi.md) | [Francésa](README.fr.md) | [árabe](README.ar.md) | [Alemán](README.de.md) | [japonés](README.ja.md) | [Español](README.es.md) |
 
 ## Captura de pantalla
 
@@ -33,7 +26,7 @@ El usuario ingresa una consulta de búsqueda y el programa envía solicitudes a 
 
 ## Características
 
--   Busca múltiples tiendas de computación en Panamá para información de productos
+-   Searches multiple computer stores in Panama for product information
 -   Encuentra el precio más barato para un producto dado
 -   Muestra información detallada sobre el producto más barato
 -   Utiliza el almacenamiento en caché para mejorar el rendimiento.
@@ -47,7 +40,7 @@ R: El programa actualmente busca en tres sitios web:`loltec.com`,`solostock.xyz`
 
 **P: ¿Puedo agregar más sitios web al programa?**
 
-R: Sí, puede agregar más sitios web al programa modificando el`websites`lista en el`Main`método. Deberá proporcionar la URL del sitio web y los selectores de CSS para el nombre, el precio y la imagen del producto.
+R: Sí, puede agregar más sitios web al programa modificando el`websites` list in the `Main`método. Deberá proporcionar la URL del sitio web y los selectores de CSS para el nombre, el precio y la imagen del producto.
 
 **P: ¿Con qué frecuencia se actualizan los datos?**
 
