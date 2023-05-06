@@ -6,7 +6,7 @@
 
 <div align="left">
   <details open>
-    <summary>:globe_with_meridians: Languages Available</summary>
+    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -27,7 +27,7 @@
 
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
-## Author
+## 作者
 
 這個程序是由創建的[qzxtu](https://github.com/qzxtu).
 
