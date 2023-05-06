@@ -19,6 +19,12 @@
       <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+      |
+      <a href="README.de.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
+      |
+      <a href="README.ja.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
+      |
+      <a href="README.es.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
     </p>
 </div>
 
@@ -32,7 +38,7 @@
 
 यह उपकरण केवल शैक्षिक उद्देश्यों के लिए बनाया गया था। लेखक इस कार्यक्रम के किसी भी दुरुपयोग के लिए ज़िम्मेदार नहीं है।
 
-## यह काम किस प्रकार करता है
+## How it works
 
 उपयोगकर्ता एक खोज क्वेरी में प्रवेश करता है और प्रोग्राम उत्पाद जानकारी को परिमार्जन करने के लिए कई वेबसाइटों को अनुरोध भेजता है। कार्यक्रम तब उत्पादों की कीमतों की तुलना करता है और इसके विवरण के साथ सबसे सस्ता उत्पाद प्रदर्शित करता है।
 
@@ -42,7 +48,7 @@
 -   किसी दिए गए उत्पाद के लिए सबसे सस्ती कीमत ढूँढता है
 -   सबसे सस्ते उत्पाद के बारे में विस्तृत जानकारी प्रदर्शित करता है
 -   प्रदर्शन को बेहतर बनाने के लिए कैशिंग का उपयोग करता है
--   Uses multithreading to speed up processing
+-   प्रसंस्करण को गति देने के लिए मल्टीथ्रेडिंग का उपयोग करता है
 
 ## सामान्य प्रश्न
 
