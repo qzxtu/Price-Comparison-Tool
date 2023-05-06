@@ -2,11 +2,11 @@
 
 該程序是一個價格比較工具，允許用戶在巴拿馬的多家商店中搜索計算機產品並找到最便宜的價格。
 
-## 翻譯
+## 截屏
+
+![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
 <div align="left">
-  <details open>
-    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -20,12 +20,9 @@
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
     </p>
-  </details>
 </div>
 
-## 截屏
-
-![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
+# 
 
 ## 作者
 
@@ -55,12 +52,12 @@ A：程序目前搜索三個網站：`loltec.com`,`solostock.xyz`， 和`ptytec.
 
 **問：我可以向該計劃添加更多網站嗎？**
 
-答：是的，您可以通過修改`websites`列在`Main`方法。您需要提供網站的 URL 以及產品名稱、價格和圖片的 CSS 選擇器。
+答：是的，您可以通過修改`websites`列表中`Main`方法。您需要提供網站的 URL 以及產品名稱、價格和圖片的 CSS 選擇器。
 
 **問：數據多久更新一次？**
 
-A：每次運行程序時，數據都會更新。該程序向網站發送請求並抓取最新的產品信息。
+A: The data is updated every time you run the program. The program sends requests to the websites and scrapes the latest product information.
 
 **問：我可以將此程序用於其他類型的產品嗎？**
 
-答：是的，您可以通過修改產品名稱、價格和圖像的搜索查詢和 CSS 選擇器，將此程序用於其他類型的產品。但是，請記住，該程序的當前版本針對在巴拿馬的多家商店中搜索計算機產品進行了優化。
+答：是的，您可以通過修改產品名稱、價格和圖像的搜索查詢和 CSS 選擇器，將此程序用於其他類型的產品。但是，請記住，該程序的當前版本已針對在巴拿馬的多家商店中搜索計算機產品進行了優化。
