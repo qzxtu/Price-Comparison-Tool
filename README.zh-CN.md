@@ -6,7 +6,7 @@
 
 <div align="left">
   <details open>
-    <summary>:globe_with_meridians: Languages Available</summary>
+    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -23,7 +23,7 @@
   </details>
 </div>
 
-## 截屏
+## Screenshot
 
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
@@ -41,7 +41,7 @@
 
 ## 特征
 
--   在巴拿马的多家电脑商店搜索产品信息
+-   Searches multiple computer stores in Panama for product information
 -   查找给定产品的最低价格
 -   显示有关最便宜产品的详细信息
 -   使用缓存来提高性能
@@ -51,7 +51,7 @@
 
 **问：程序搜索哪些网站？**
 
-A：程序目前搜索三个网站：`loltec.com`,`solostock.xyz`， 和`ptytec.com`.这些网站是位于巴拿马的电脑商店。
+A: The program currently searches three websites: `loltec.com`,`solostock.xyz`， 和`ptytec.com`.这些网站是位于巴拿马的电脑商店。
 
 **问：我可以向该计划添加更多网站吗？**
 
