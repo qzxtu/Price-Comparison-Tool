@@ -19,6 +19,12 @@ Ce programme est un outil de comparaison de prix qui permet aux utilisateurs de 
       <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+      |
+      <a href="README.de.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
+      |
+      <a href="README.ja.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
+      |
+      <a href="README.es.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
     </p>
 </div>
 
@@ -28,7 +34,7 @@ Ce programme est un outil de comparaison de prix qui permet aux utilisateurs de 
 
 Ce programme a été créé par[qzxtu](https://github.com/qzxtu).
 
-## Disclaimer
+## Clause de non-responsabilité
 
 Cet outil a été créé à des fins éducatives uniquement. L'auteur n'est pas responsable de toute mauvaise utilisation de ce programme.
 
@@ -52,7 +58,7 @@ R : Le programme recherche actuellement trois sites Web :`loltec.com`,`solosto
 
 **Q : Puis-je ajouter d'autres sites Web au programme ?**
 
-A: Yes, you can add more websites to the program by modifying the `websites`liste dans le`Main`méthode. Vous devrez fournir l'URL du site Web et les sélecteurs CSS pour le nom, le prix et l'image du produit.
+R : Oui, vous pouvez ajouter d'autres sites Web au programme en modifiant le`websites`liste dans le`Main`méthode. Vous devrez fournir l'URL du site Web et les sélecteurs CSS pour le nom, le prix et l'image du produit.
 
 **Q : À quelle fréquence les données sont-elles mises à jour ?**
 
