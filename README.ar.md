@@ -2,11 +2,11 @@
 
 هذا البرنامج هو أداة مقارنة أسعار تتيح للمستخدمين البحث عن منتجات الكمبيوتر عبر متاجر متعددة في بنما والعثور على أرخص الأسعار.
 
-## ترجمة
+## لقطة شاشة
+
+![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
 <div align="left">
-  <details open>
-    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -20,12 +20,9 @@
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
     </p>
-  </details>
 </div>
 
-## لقطة شاشة
-
-![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
+# 
 
 ## مؤلف
 
@@ -55,7 +52,7 @@
 
 **س: هل يمكنني إضافة المزيد من المواقع إلى البرنامج؟**
 
-ج: نعم ، يمكنك إضافة المزيد من المواقع إلى البرنامج عن طريق تعديل`websites` list in the `Main`طريقة. ستحتاج إلى تقديم عنوان URL لموقع الويب ومحددات CSS لاسم المنتج والسعر والصورة.
+ج: نعم ، يمكنك إضافة المزيد من المواقع إلى البرنامج عن طريق تعديل`websites`قائمة في`Main`طريقة. ستحتاج إلى تقديم عنوان URL لموقع الويب ومحددات CSS لاسم المنتج والسعر والصورة.
 
 **س: كم مرة يتم تحديث البيانات؟**
 
