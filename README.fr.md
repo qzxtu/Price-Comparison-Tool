@@ -2,9 +2,9 @@
 
 Ce programme est un outil de comparaison de prix qui permet aux utilisateurs de rechercher des produits informatiques dans plusieurs magasins au Panama et de trouver le prix le moins cher.
 
-## Traduction LISEZMOI
+## Traduction
 
--   [English](README.md)
+-   [Anglais](README.md)
 -   [Chinois simplifié](README.zh-CN.md)
 -   [chinois traditionnel](README.zh-TW.md)
 -   [hindi](README.hi.md)
@@ -47,7 +47,7 @@ R : Oui, vous pouvez ajouter d'autres sites Web au programme en modifiant le`web
 
 **Q : À quelle fréquence les données sont-elles mises à jour ?**
 
-R : Les données sont mises à jour à chaque fois que vous exécutez le programme. Le programme envoie des demandes aux sites Web et récupère les dernières informations sur les produits.
+A: The data is updated every time you run the program. The program sends requests to the websites and scrapes the latest product information.
 
 **Q : Puis-je utiliser ce programme pour d'autres types de produits ?**
 
