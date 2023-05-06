@@ -4,12 +4,24 @@
 
 ## ترجمة
 
--   [إنجليزي](README.md)
--   [الصينية المبسطة](README.zh-CN.md)
--   [الصينية التقليدية](README.zh-TW.md)
--   [هندي](README.hi.md)
--   [فرنسي](README.fr.md)
--   [عربى](README.ar.md)
+<div align="left">
+  <details open>
+    <summary>:globe_with_meridians: Languages Available</summary>
+    <p align="center">
+      <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
+      |
+      <a href="README.zh-CN.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 简体中文</a>
+      |
+      <a href="README.zh-TW.md"><img src="https://flagsapi.com/TW/flat/32.png" height="11"> 繁体中文</a>
+      |
+      <a href="README.hi.md"><img src="https://flagsapi.com/IN/flat/32.png" height="11"> हिंदी</a>
+      |
+      <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
+      |
+      <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+    </p>
+  </details>
+</div>
 
 ## لقطة شاشة
 
@@ -23,7 +35,7 @@
 
 تم إنشاء هذه الأداة للأغراض التعليمية فقط. المؤلف غير مسؤول عن أي سوء استخدام لهذا البرنامج.
 
-## كيف تعمل
+## How it works
 
 يقوم المستخدم بإدخال استعلام بحث ويرسل البرنامج طلبات إلى مواقع ويب متعددة لكشط معلومات المنتج. يقوم البرنامج بعد ذلك بمقارنة أسعار المنتجات وعرض أرخص منتج مع تفاصيله.
 
@@ -43,7 +55,7 @@
 
 **س: هل يمكنني إضافة المزيد من المواقع إلى البرنامج؟**
 
-ج: نعم ، يمكنك إضافة المزيد من المواقع إلى البرنامج عن طريق تعديل`websites`قائمة في`Main`طريقة. ستحتاج إلى تقديم عنوان URL لموقع الويب ومحددات CSS لاسم المنتج والسعر والصورة.
+ج: نعم ، يمكنك إضافة المزيد من المواقع إلى البرنامج عن طريق تعديل`websites`قائمة في`Main` method. You will need to provide the URL of the website and the CSS selectors for the product name, price, and image.
 
 **س: كم مرة يتم تحديث البيانات؟**
 
