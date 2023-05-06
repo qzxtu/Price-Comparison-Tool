@@ -1,6 +1,6 @@
 # أداة مقارنة الأسعار
 
-هذا البرنامج هو أداة مقارنة أسعار تتيح للمستخدمين البحث عن منتجات الكمبيوتر عبر متاجر متعددة في بنما والعثور على أرخص الأسعار.
+هذا البرنامج عبارة عن أداة مقارنة أسعار تتيح للمستخدمين البحث عن منتجات الكمبيوتر عبر متاجر متعددة في بنما والعثور على أرخص الأسعار.
 
 ## لقطة شاشة
 
@@ -19,6 +19,12 @@
       <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+      |
+      <a href="README.de.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
+      |
+      <a href="README.ja.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
+      |
+      <a href="README.es.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
     </p>
 </div>
 
