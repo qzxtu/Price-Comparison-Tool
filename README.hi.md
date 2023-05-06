@@ -6,7 +6,7 @@
 
 <div align="left">
   <details open>
-    <summary>:globe_with_meridians: Languages Available</summary>
+    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -31,7 +31,7 @@
 
 यह कार्यक्रम द्वारा बनाया गया था[qzxtu](https://github.com/qzxtu).
 
-## Disclaimer
+## अस्वीकरण
 
 यह उपकरण केवल शैक्षिक उद्देश्यों के लिए बनाया गया था। लेखक इस कार्यक्रम के किसी भी दुरुपयोग के लिए ज़िम्मेदार नहीं है।
 
@@ -53,7 +53,7 @@
 
 ए: कार्यक्रम वर्तमान में तीन वेबसाइटों की खोज करता है:`loltec.com`,`solostock.xyz`, और`ptytec.com`. ये वेबसाइटें पनामा में स्थित कंप्यूटर स्टोर हैं।
 
-**प्रश्न: क्या मैं कार्यक्रम में और वेबसाइटें जोड़ सकता हूँ?**
+**Q: Can I add more websites to the program?**
 
 उ: हां, आप संशोधित करके कार्यक्रम में और वेबसाइटें जोड़ सकते हैं`websites`सूची में`Main`तरीका। आपको उत्पाद का नाम, मूल्य और छवि के लिए वेबसाइट का URL और CSS चयनकर्ता प्रदान करने की आवश्यकता होगी।
 
