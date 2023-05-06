@@ -6,7 +6,7 @@
 
 <div align="left">
   <details open>
-    <summary>:globe_with_meridians: Languages Available</summary>
+    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -35,7 +35,7 @@
 
 تم إنشاء هذه الأداة للأغراض التعليمية فقط. المؤلف غير مسؤول عن أي سوء استخدام لهذا البرنامج.
 
-## How it works
+## كيف تعمل
 
 يقوم المستخدم بإدخال استعلام بحث ويرسل البرنامج طلبات إلى مواقع ويب متعددة لكشط معلومات المنتج. يقوم البرنامج بعد ذلك بمقارنة أسعار المنتجات وعرض أرخص منتج مع تفاصيله.
 
@@ -55,7 +55,7 @@
 
 **س: هل يمكنني إضافة المزيد من المواقع إلى البرنامج؟**
 
-ج: نعم ، يمكنك إضافة المزيد من المواقع إلى البرنامج عن طريق تعديل`websites`قائمة في`Main` method. You will need to provide the URL of the website and the CSS selectors for the product name, price, and image.
+ج: نعم ، يمكنك إضافة المزيد من المواقع إلى البرنامج عن طريق تعديل`websites` list in the `Main`طريقة. ستحتاج إلى تقديم عنوان URL لموقع الويب ومحددات CSS لاسم المنتج والسعر والصورة.
 
 **س: كم مرة يتم تحديث البيانات؟**
 
