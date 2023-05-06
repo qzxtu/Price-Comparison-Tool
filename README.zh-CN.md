@@ -2,8 +2,6 @@
 
 该程序是一个价格比较工具，允许用户在巴拿马的多家商店中搜索计算机产品并找到最便宜的价格。
 
-# 翻译
-
 | 🇺🇸            | 🇨🇳                    | 🇹🇼                    | 🇮🇳                | 🇫🇷               | 🇦🇪                | 🇩🇪               | 🇯🇵                | 🇪🇸                 |
 | --------------- | ----------------------- | ----------------------- | ------------------- | ------------------ | ------------------- | ------------------ | ------------------- | -------------------- |
 | [英语](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [印地语](README.hi.md) | [法语](README.fr.md) | [阿拉伯](README.ar.md) | [德语](README.de.md) | [日本人](README.ja.md) | [西班牙语](README.es.md) |
@@ -30,7 +28,7 @@
 -   查找给定产品的最低价格
 -   显示有关最便宜产品的详细信息
 -   使用缓存来提高性能
--   Uses multithreading to speed up processing
+-   使用多线程来加速处理
 
 ## FAQ
 
@@ -42,10 +40,10 @@ A：程序目前搜索三个网站：`loltec.com`,`solostock.xyz`， 和`ptytec.
 
 答：是的，您可以通过修改`websites`列表中`Main`方法。您需要提供网站的 URL 以及产品名称、价格和图片的 CSS 选择器。
 
-**问：数据多久更新一次？**
+**Q: How often is the data updated?**
 
 A：每次运行程序时，数据都会更新。该程序向网站发送请求并抓取最新的产品信息。
 
 **问：我可以将此程序用于其他类型的产品吗？**
 
-答：是的，您可以通过修改产品名称、价格和图像的搜索查询和 CSS 选择器，将此程序用于其他类型的产品。但是，请记住，该程序的当前版本针对在巴拿马的多家商店中搜索计算机产品进行了优化。
+A: Yes, you can use this program for other types of products by modifying the search query and the CSS selectors for the product name, price, and image. However, keep in mind that the current version of the program is optimized for searching computer products across multiple stores in Panama.
