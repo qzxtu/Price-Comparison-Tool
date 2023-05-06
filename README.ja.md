@@ -2,7 +2,7 @@
 
 このプログラムは、ユーザーがパナマの複数の店舗でコンピューター製品を検索し、最も安い価格を見つけることができる価格比較ツールです。
 
-## Screenshot
+## スクリーンショット
 
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
@@ -19,6 +19,12 @@
       <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+      |
+      <a href="README.de.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
+      |
+      <a href="README.ja.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
+      |
+      <a href="README.es.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
     </p>
 </div>
 
@@ -30,11 +36,11 @@
 
 ## 免責事項
 
-このツールは、教育目的でのみ作成されました。作者は、このプログラムのいかなる誤用についても責任を負いません。
+This tool was created for educational purposes only. The author is not responsible for any misuse of this program.
 
 ## 使い方
 
-ユーザーが検索クエリを入力すると、プログラムが複数の Web サイトにリクエストを送信して、製品情報をスクレイピングします。次に、プログラムは製品の価格を比較し、最も安い製品とその詳細を表示します。
+ユーザーが検索クエリを入力すると、プログラムは複数の Web サイトにリクエストを送信して製品情報をスクレイピングします。次に、プログラムは製品の価格を比較し、最も安い製品とその詳細を表示します。
 
 ## 特徴
 
@@ -56,8 +62,8 @@ A: はい。`websites`のリスト`Main`方法。 Web サイトの URL と、製
 
 **Q: データはどのくらいの頻度で更新されますか?**
 
-A: The data is updated every time you run the program. The program sends requests to the websites and scrapes the latest product information.
+A: プログラムを実行するたびにデータが更新されます。プログラムは Web サイトにリクエストを送信し、最新の製品情報をスクレイピングします。
 
-**Q: このプログラムを他のタイプの製品に使用できますか?**
+**Q: このプログラムを他の種類の製品に使用できますか?**
 
-A: Yes, you can use this program for other types of products by modifying the search query and the CSS selectors for the product name, price, and image. However, keep in mind that the current version of the program is optimized for searching computer products across multiple stores in Panama.
+A: はい。製品名、価格、画像の検索クエリと CSS セレクターを変更することで、このプログラムを他の種類の製品に使用できます。ただし、プログラムの現在のバージョンは、パナマの複数の店舗でコンピュータ製品を検索できるように最適化されていることに注意してください。
