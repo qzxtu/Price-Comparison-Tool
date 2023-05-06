@@ -2,14 +2,26 @@
 
 यह कार्यक्रम एक मूल्य तुलना उपकरण है जो उपयोगकर्ताओं को पनामा में कई स्टोरों में कंप्यूटर उत्पादों की खोज करने और सबसे सस्ती कीमत खोजने की अनुमति देता है।
 
-## Translation
+## अनुवाद
 
--   [अंग्रेज़ी](README.md)
--   [सरलीकृत चीनी](README.zh-CN.md)
--   [परंपरागत चीनी](README.zh-TW.md)
--   [हिंदी](README.hi.md)
--   [फ्रेंच](README.fr.md)
--   [अरब](README.ar.md)
+<div align="left">
+  <details open>
+    <summary>:globe_with_meridians: Languages Available</summary>
+    <p align="center">
+      <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
+      |
+      <a href="README.zh-CN.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 简体中文</a>
+      |
+      <a href="README.zh-TW.md"><img src="https://flagsapi.com/TW/flat/32.png" height="11"> 繁体中文</a>
+      |
+      <a href="README.hi.md"><img src="https://flagsapi.com/IN/flat/32.png" height="11"> हिंदी</a>
+      |
+      <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
+      |
+      <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
+    </p>
+  </details>
+</div>
 
 ## स्क्रीनशॉट
 
@@ -19,7 +31,7 @@
 
 यह कार्यक्रम द्वारा बनाया गया था[qzxtu](https://github.com/qzxtu).
 
-## अस्वीकरण
+## Disclaimer
 
 यह उपकरण केवल शैक्षिक उद्देश्यों के लिए बनाया गया था। लेखक इस कार्यक्रम के किसी भी दुरुपयोग के लिए ज़िम्मेदार नहीं है।
 
@@ -51,4 +63,4 @@
 
 **प्रश्न: क्या मैं इस कार्यक्रम का उपयोग अन्य प्रकार के उत्पादों के लिए कर सकता हूँ?**
 
-उ: हां, आप उत्पाद के नाम, मूल्य और छवि के लिए खोज क्वेरी और CSS चयनकर्ताओं को संशोधित करके अन्य प्रकार के उत्पादों के लिए इस प्रोग्राम का उपयोग कर सकते हैं। हालांकि, ध्यान रखें कि कार्यक्रम का वर्तमान संस्करण पनामा में कई स्टोरों में कंप्यूटर उत्पादों को खोजने के लिए अनुकूलित है।
+उ: हां, आप उत्पाद के नाम, मूल्य और छवि के लिए खोज क्वेरी और CSS चयनकर्ताओं को संशोधित करके अन्य प्रकार के उत्पादों के लिए इस कार्यक्रम का उपयोग कर सकते हैं। हालांकि, ध्यान रखें कि कार्यक्रम का वर्तमान संस्करण पनामा में कई स्टोरों में कंप्यूटर उत्पादों को खोजने के लिए अनुकूलित है।
