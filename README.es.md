@@ -2,33 +2,15 @@
 
 Este programa es una herramienta de comparación de precios que permite a los usuarios buscar productos informáticos en múltiples tiendas en Panamá y encontrar el precio más barato.
 
+# Traducción
+
+| 🇺🇸                | 🇨🇳                                  | 🇹🇼                                 | 🇮🇳                  | 🇫🇷                     | 🇦🇪                  | 🇩🇪                   | 🇯🇵                    | 🇪🇸                    |
+| ------------------- | ------------------------------------- | ------------------------------------ | --------------------- | ------------------------ | --------------------- | ---------------------- | ----------------------- | ----------------------- |
+| [Inglés](README.md) | [chino simplificado](README.zh-CN.md) | [chino tradicional](README.zh-TW.md) | [hindi](README.hi.md) | [Francésa](README.fr.md) | [árabe](README.ar.md) | [Alemán](README.de.md) | [japonés](README.ja.md) | [Español](README.es.md) |
+
 ## Captura de pantalla
 
 ![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
-
-<div align="left">
-    <p align="center">
-      <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
-      |
-      <a href="README.zh-CN.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 简体中文</a>
-      |
-      <a href="README.zh-TW.md"><img src="https://flagsapi.com/TW/flat/32.png" height="11"> 繁体中文</a>
-      |
-      <a href="README.hi.md"><img src="https://flagsapi.com/IN/flat/32.png" height="11"> हिंदी</a>
-      |
-      <a href="README.fr.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Française</a>
-      |
-      <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
-      |
-      <a href="README.de.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
-      |
-      <a href="README.ja.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
-      |
-      <a href="README.es.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
-    </p>
-</div>
-
-# 
 
 ## Autor
 
