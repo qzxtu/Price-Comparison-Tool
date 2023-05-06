@@ -2,11 +2,11 @@
 
 यह कार्यक्रम एक मूल्य तुलना उपकरण है जो उपयोगकर्ताओं को पनामा में कई स्टोरों में कंप्यूटर उत्पादों की खोज करने और सबसे सस्ती कीमत खोजने की अनुमति देता है।
 
-## अनुवाद
+## स्क्रीनशॉट
+
+![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
 
 <div align="left">
-  <details open>
-    <summary>:globe_with_meridians:</summary>
     <p align="center">
       <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
       |
@@ -20,12 +20,9 @@
       |
       <a href="README.ar.md"><img src="https://flagsapi.com/AE/flat/32.png" height="11"> عربى</a>
     </p>
-  </details>
 </div>
 
-## स्क्रीनशॉट
-
-![PTY](https://cdn.discordapp.com/attachments/1008195045960204348/1104240493560348793/PTY.png)
+# 
 
 ## लेखक
 
@@ -53,7 +50,7 @@
 
 ए: कार्यक्रम वर्तमान में तीन वेबसाइटों की खोज करता है:`loltec.com`,`solostock.xyz`, और`ptytec.com`. ये वेबसाइटें पनामा में स्थित कंप्यूटर स्टोर हैं।
 
-**Q: Can I add more websites to the program?**
+**प्रश्न: क्या मैं कार्यक्रम में और वेबसाइटें जोड़ सकता हूँ?**
 
 उ: हां, आप संशोधित करके कार्यक्रम में और वेबसाइटें जोड़ सकते हैं`websites`सूची में`Main`तरीका। आपको उत्पाद का नाम, मूल्य और छवि के लिए वेबसाइट का URL और CSS चयनकर्ता प्रदान करने की आवश्यकता होगी।
 
