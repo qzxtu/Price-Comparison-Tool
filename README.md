@@ -2,7 +2,7 @@
 
 This program is a price comparison tool that allows users to search for computer products across multiple stores in Panamá and find the cheapest price.
 
-# Readme.md Translation
+## Readme.md Translation
 | 🇺🇸 | 🇨🇳 | 🇹🇼 | 🇮🇳 | 🇫🇷 | 🇦🇪 | 🇩🇪 | 🇯🇵 | 🇪🇸 |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | [English](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [हिंदी](README.hi.md) | [Française](README.fr.md) | [عربى](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) |
